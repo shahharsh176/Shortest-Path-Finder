@@ -1,7 +1,7 @@
 # Shortest-Path-Finder
 
 This is the Application for calculating the shortest path for particular source and multiple destinations in the
-city using Dijkstra’s shortest path algorithm.
+city using Dijkstra’s shortest path algorithm. This project was in the course "Data Structures and Algorithms".
 
 There is a 13 node Graph. ( Find the "Graph.png" )
 
