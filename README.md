@@ -30,7 +30,7 @@ Then the Ouput will be:
     Airport----->RailwayStation
     RailwayStation----->GitaMandir----->LawGarden
     LawGarden----->SEAS
-
+So, This is the shortest route for covering these destinations from source
 
 How to Run:
 
