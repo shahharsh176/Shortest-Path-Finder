@@ -36,4 +36,4 @@ How to Run:
 
 1. If you want to calculate shortest path for source and multiple destinations then select "User" mode when you run the file.
 
-2. If you want to create your own graph then select "Develpoer" mode when you run the file.
+2. If you want to create your own graph then select "Developer" mode when you run the file.
